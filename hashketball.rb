@@ -136,6 +136,7 @@ def team_colors(team_name)
       return team[:colors]
     end
   end
+end
   
 def team_names
   game_hash.map do |place, team|
