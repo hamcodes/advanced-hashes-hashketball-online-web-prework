@@ -112,5 +112,5 @@ require 'pry'
                   :slam_dunks => 1
                  }
                ]
-    }
+    } end
   end
